@@ -7,11 +7,11 @@ Notes on how to specify Engineering Job requirements for communicating to 3D par
 -	List all sensors / valves or other process equipment that need to be controlled.
 -	IO or DAQ devices required. – 3D party contractors or Myself can advise as to available options given the above specification. 3D party contractors can also supply DAQ and IO Equipment as part of their quote if you are looking for a turnkey solution.
 -	Detail the type of data logging that is required:
-o	Which sensors,
-o	Recorded/Displayed in which Units,
-o	Over which timeframes,
-o	Sample rates required,
-o	Log File types required.
+    o	Which sensors,
+    o	Recorded/Displayed in which Units,
+    o	Over which timeframes,
+    o	Sample rates required,
+    o	Log File types required.
 -	Any specifics regarding the Human Machine Interface, I.E. Which sensor readings should be displayed, what controls should be available for the user. Requirements for safety critical steps like emergency stops.
 -	As much detail about the process, or the steps required for the process, including which elements should be manually controlled and when, and which should be automated. A state diagram is an exceptionally useful tool for communicating these requirements, but a written list of process steps may be sufficient depending on the complexity of the process.
 -	As much detail as possible regarding any 3D party equipment, Ovens, specialised sensors with their own controllers etc. which will need to interface with the software. Manuals and Driver/Proprietary software delivered with this kind of equipment is invaluable.
